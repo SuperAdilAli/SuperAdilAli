@@ -1,5 +1,5 @@
 <h2 align="center">Hello, I am Adil</h2>
-<h3 align="center">A student from this World.</h3>
+<h3 align="center">A student in this World.</h3>
 <br/>
 
 - 🌱 I’m currently learning **JavaScript, Golang and CSS.**
